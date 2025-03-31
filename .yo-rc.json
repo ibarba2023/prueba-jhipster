@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "MiApp",
+    "packageName": "com.miempresa",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "databaseType": "sql",
+    "prodDatabaseType": "postgresql",
+    "devDatabaseType": "h2Disk",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableTranslation": false,
+    "testFrameworks": [],
+    "clientFramework": "angular",
+    "clientTheme": "none"
+  }
+}
